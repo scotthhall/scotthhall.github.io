@@ -1,0 +1,21 @@
+---
+layout: post
+title:      "Why I Code"
+date:       2018-06-25 17:52:19 +0000
+permalink:  why_i_code
+---
+
+
+For as long as I can remember, I always knew that I wanted to be a writer. It started in kindergarten when I began writing my own additions to the original Star Wars trilogy. By the time I was applying for colleges, I knew that I had to find some way to incorporate that passion into whatever I found myself doing. When I graduated from Davidson College in May of 2015,  I received a double major in English and Classics and I knew that I wanted to write. I had my sights set on Hollywood where I was going to be a famous screenwriter.
+
+Okay, so I'm a bit of a dreamer. And that particular dream fell apart rather quickly. I soon realized that I could not afford to move to Los Angeles without a job or savings, and I found myself doing the "responsible" thing. In an effort to find financial stability, I took steps away from my passion for writing. Ultimately I found that stability, but I could not silence the voices pulling me back towards my writing.
+
+But my love of writing has plagued me ever since. Over the last two years I've discovered that while my passion for film was at best skin-deep, my desire to write and create has not changed. Recently, my roommate, a coder of three years, turned me onto Flatiron's free bootcamp prep and somehow it reignited something in me that I'd been missing for a long time. Coding was something that I'd never tried before but somehow it felt so familiar. 
+
+I was writing again. It wasn't my first language, but it wasn't my second language either. Beyond English, I was also a Classics major - that is ancient Greek and Latin culture and language. Yes, half of my college career was spent studying dead languages. But something about learning the first steps of HTML and moving through CSS into Javascript helped me remember what I loved so much about learning new languages. For the first time in years I was finding a new way to say something. 
+
+So here I am: a writer, a dreamer, and maybe one day a coder. Finally I have the opportunity to explore that third role and the more I press into it, the more doors it opens for me to continue writing and dreaming. Up to this point, learning computer languages has been one of the more difficult experiences that I've ever had, but it's all worth that feeling at the end when all of your code passes. 
+
+If you ask me why I code, I'll tell you it's because I write.
+
+
